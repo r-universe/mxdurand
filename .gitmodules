@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "TDPanalysis"]
 	path = TDPanalysis
-	url = https://github.com/cran/TDPanalysis
+	url = https://github.com/mxdurand/tdpanalysis
